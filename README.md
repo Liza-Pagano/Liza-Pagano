@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://allianceofsport.org/wp-content/uploads/2018/08/pete-bell-2.jpg"></a>
 
 <param ve-config 
        title="Girl with a Pearl Earring"

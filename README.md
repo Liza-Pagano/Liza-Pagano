@@ -2,7 +2,6 @@
 
 <param ve-config 
        title="Sing Sing! Go! Fight! Win!"
-       author=""
        banner="https://iiif.juncture-digital.org/banner/url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
